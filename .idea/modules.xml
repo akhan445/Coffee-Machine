@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" group="Coffee_Machine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine (1)/task/Coffee_Machine__1_-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine (1)/task/Coffee_Machine__1_-task.iml" group="Coffee_Machine/Coffee_Machine__1_-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine (1)/task/Coffee_Machine__1_-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine (1)/task/Coffee_Machine__1_-task_main.iml" group="Coffee_Machine/Coffee_Machine__1_-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine (1)/task/Coffee_Machine__1_-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine (1)/task/Coffee_Machine__1_-task_test.iml" group="Coffee_Machine/Coffee_Machine__1_-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine (2)/task/Coffee_Machine__2_-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine (2)/task/Coffee_Machine__2_-task.iml" group="Coffee_Machine/Coffee_Machine__2_-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine (2)/task/Coffee_Machine__2_-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine (2)/task/Coffee_Machine__2_-task_main.iml" group="Coffee_Machine/Coffee_Machine__2_-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine (2)/task/Coffee_Machine__2_-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine (2)/task/Coffee_Machine__2_-task_test.iml" group="Coffee_Machine/Coffee_Machine__2_-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Car/Problems-Car.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Car/Problems-Car.iml" group="Coffee_Machine/Problems-Car" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Car/Problems-Car_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Car/Problems-Car_main.iml" group="Coffee_Machine/Problems-Car" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Car/Problems-Car_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Car/Problems-Car_test.iml" group="Coffee_Machine/Problems-Car" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Coffee_Machine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Coffee_Machine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Coffee_Machine/util" />
+    </modules>
+  </component>
+</project>
